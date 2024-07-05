@@ -1,0 +1,66 @@
+{
+  "status": "ok",
+  "totalResults": 6,
+  "articles": [
+    {
+      "source": { "id": "cbs-news", "name": "CBS News" },
+      "author": "CBS News",
+      "title": "After being paralyzed skiing, this 20-year-old competed in his first marathon",
+      "description": "Mason Branstrator's life changed when he was paralyzed at 17. But that hasn't stopped him from playing sports and competing in a marathon. Mason, 20, just completed the wheelchair race at Grandma's Marathon in Duluth, Minnesota.",
+      "url": "https://www.cbsnews.com/video/mason-branstrator-paralyzed-skiing-this-20-year-old-competed-in-his-first-marathon/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/07/02/3de7c7d8-4555-458a-afbd-bdf63b7324c9/thumbnail/1200x630/1fb936d535873f63d4566af79544a6a6/snapinsta-app-448935204-18352942000111242-7624771466134694922-n-1080.jpg?v=57e8061b2038d609da26e467de5ddfb8",
+      "publishedAt": "2024-07-02T18:47:00+00:00",
+      "content": "Watch CBS News\r\nCopyright ©2024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+    },
+    {
+      "source": { "id": "espn", "name": "ESPN" },
+      "author": "Mark Schlabach",
+      "title": "Basketball players sue NCAA over NIL use in March Madness promos - ESPN",
+      "description": "A group of former college basketball players have sued the NCAA, multiple conferences and Turner Sports for the unauthorized use of NIL in March Madness highlights.",
+      "url": "https://www.espn.com/mens-college-basketball/story/_/id/40480858/basketball-players-sue-ncaa-nil-use-march-madness-promos",
+      "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F0803%2Fr890578_1296x729_16%2D9.jpg",
+      "publishedAt": "2024-07-02T13:23:00Z",
+      "content": "A group of 16 former men's college basketball players, including Kansas stars Mario Chalmers and Sherron Collins, UConn guard Byan Boatright and Arizona guard Jason Terry, have sued the NCAA and mult… [+3811 chars]"
+    },
+    {
+      "source": { "id": "time", "name": "Time" },
+      "author": "Olivia B. Waxman",
+      "title": "Here’s What’s New on Netflix in July 2024",
+      "description": "From the sports documentary SPRINT to every season of Lost, here's what's coming to Netflix in July",
+      "url": "http://time.com/6990351/new-on-netflix-july-2024/",
+      "urlToImage": "https://api.time.com/wp-content/uploads/2024/06/Harry-connick-jr-netflix-movie.jpg?quality=85&w=1200&h=628&crop=1",
+      "publishedAt": "2024-07-01T04:01:00Z",
+      "content": "Netflix is premiering several original sports documentaries in July, perfect for anyone looking to pass the time before the Olympics. SPRINT, out July 2, tracks Olympic track stars, while Receiver, p… [+3266 chars]"
+    },
+    {
+      "source": { "id": "fox-sports", "name": "Fox Sports" },
+      "author": "John Fanta, Michael Cohen",
+      "title": "College basketball roundtable: Michigan State's tourney streak, top transfers and more",
+      "description": "Is Michigan State's NCAA Tournament streak in jeopardy? Who is the top transfer in the nation? FOX Sports' college basketball experts answer that and more.",
+      "url": "http://www.foxsports.com/stories/college-basketball/college-basketball-roundtable-michigan-states-tourney-streak-top-transfers-and-more",
+      "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2024/02/1408/814/2024-02-29_College-Basketball-Roundtable_16x9.jpg?ve=1&tl=1",
+      "publishedAt": "2024-02-29T20:59:30Z",
+      "content": "It's almost time, ladies and gentlemen!\r\nThat long-awaited, fun-filled day when you wait to hear your team's name called before breaking out a pen and paper to fill out your NCAA Tournament bracket i… [+17577 chars]"
+    },
+    {
+      "source": { "id": "bleacher-report", "name": "Bleacher Report" },
+      "author": null,
+      "title": "New Micah Parsons Show ",
+      "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+      "url": "https://bleacherreport.com/videos/490566-the-edge-w-micah-parsons-ep-11-vod",
+      "urlToImage": null,
+      "publishedAt": "2023-11-27T20:37:24.6381564Z",
+      "content": null
+    },
+    {
+      "source": { "id": "bleacher-report", "name": "Bleacher Report" },
+      "author": null,
+      "title": " Mikal Bridges Interview ",
+      "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+      "url": "https://bleacherreport.com/videos/491103-taylor-rooks-x-mikal-bridges-vod",
+      "urlToImage": null,
+      "publishedAt": "2023-11-27T20:37:24.3882176Z",
+      "content": "Nets star sits down with Taylor Rooks for exclusive convo."
+    }
+  ]
+}
