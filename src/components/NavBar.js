@@ -25,6 +25,7 @@ export class NavBar extends Component {
         <li><Link className="nav-link" to="/sports">Sports</Link></li>
         <li><Link className="nav-link" to="/technology">Technology</Link></li>
         
+        
         {/* <Link className="nav-link disabled" aria-disabled="true">Disabled</Link> */}
       </div>
     </div>
